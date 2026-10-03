@@ -1,6 +1,23 @@
-# Ecommerce Portfolio — Alex Abboud
+# Website & Ecommerce Portfolio — Alex Abboud
 
-This repository showcases two ecommerce projects: **Presura** and **Valenor**.
+Restaurant websites, interactive dashboards and ecommerce projects by **Alex Abboud**.
+
+**[View the portfolio](https://alexabbou9-tech.github.io/SITES-PROJECT/)**
+
+## New projects
+
+| Project | Explore | Details |
+| --- | --- | --- |
+| Asian Noodle Garden restaurant website | [Live website](https://alexabbou9-tech.github.io/SITES-PROJECT/asian-noodle-garden/) | [Screenshots and project details](./asian-noodle-garden/) |
+| Upwork tracking dashboard | [Interactive sample-data demo](https://alexabbou9-tech.github.io/SITES-PROJECT/upwork-tracker/) | [Screenshots and project details](./upwork-tracker/) |
+
+[![Asian Noodle Garden](./screenshots/restaurant-desktop.png)](https://alexabbou9-tech.github.io/SITES-PROJECT/asian-noodle-garden/)
+
+[![Upwork tracking dashboard](./screenshots/upwork-desktop.png)](https://alexabbou9-tech.github.io/SITES-PROJECT/upwork-tracker/)
+
+## Ecommerce projects
+
+Existing storefront projects: **Presura** and **Valenor**.
 
 ## Presura — Shopify Storefront
 
@@ -45,7 +62,7 @@ When GitHub Pages is enabled for this repository, the interactive demo is availa
 
 ## Portfolio Landing Page
 
-The repository root now includes a portfolio landing page linking to both projects.
+The repository root now includes a portfolio landing page linking to the restaurant, dashboard and ecommerce projects.
 
 ### Skills represented
 
