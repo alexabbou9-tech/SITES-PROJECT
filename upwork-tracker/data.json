@@ -1,0 +1,435 @@
+{
+  "demo": true,
+  "checkedAt": "2026-10-02T18:00:00Z",
+  "proposals": [
+    {
+      "marketplaceJobPosting": {
+        "content": {
+          "title": "Demo: Shopify catalogue setup"
+        },
+        "url": "#demo-record"
+      },
+      "country": "United States",
+      "boosted": false,
+      "status": {
+        "status_label": "Submitted"
+      },
+      "auditDetails": {
+        "createdDateTime": {
+          "displayValue": "2026-10-02T12:00:00Z"
+        }
+      },
+      "terms": {
+        "chargeRate": {
+          "displayValue": "$15/hr"
+        },
+        "connectsBid": 8
+      }
+    },
+    {
+      "marketplaceJobPosting": {
+        "content": {
+          "title": "Demo: Restaurant website refresh"
+        },
+        "url": "#demo-record"
+      },
+      "country": "Pakistan",
+      "boosted": true,
+      "status": {
+        "status_label": "Submitted"
+      },
+      "auditDetails": {
+        "createdDateTime": {
+          "displayValue": "2026-10-02T12:00:00Z"
+        }
+      },
+      "terms": {
+        "chargeRate": {
+          "displayValue": "$17/hr"
+        },
+        "connectsBid": 9
+      }
+    },
+    {
+      "marketplaceJobPosting": {
+        "content": {
+          "title": "Demo: Product inventory assistant"
+        },
+        "url": "#demo-record"
+      },
+      "country": "Turkey",
+      "boosted": false,
+      "status": {
+        "status_label": "Submitted"
+      },
+      "auditDetails": {
+        "createdDateTime": {
+          "displayValue": "2026-10-02T12:00:00Z"
+        }
+      },
+      "terms": {
+        "chargeRate": {
+          "displayValue": "$19/hr"
+        },
+        "connectsBid": 10
+      }
+    },
+    {
+      "marketplaceJobPosting": {
+        "content": {
+          "title": "Demo: Landing page design"
+        },
+        "url": "#demo-record"
+      },
+      "country": "United States",
+      "boosted": false,
+      "status": {
+        "status_label": "Submitted"
+      },
+      "auditDetails": {
+        "createdDateTime": {
+          "displayValue": "2026-10-01T12:00:00Z"
+        }
+      },
+      "terms": {
+        "chargeRate": {
+          "displayValue": "$21/hr"
+        },
+        "connectsBid": 11
+      }
+    },
+    {
+      "marketplaceJobPosting": {
+        "content": {
+          "title": "Demo: Customer support workflow"
+        },
+        "url": "#demo-record"
+      },
+      "country": "Pakistan",
+      "boosted": false,
+      "status": {
+        "status_label": "Submitted"
+      },
+      "auditDetails": {
+        "createdDateTime": {
+          "displayValue": "2026-10-01T12:00:00Z"
+        }
+      },
+      "terms": {
+        "chargeRate": {
+          "displayValue": "$23/hr"
+        },
+        "connectsBid": 12
+      }
+    },
+    {
+      "marketplaceJobPosting": {
+        "content": {
+          "title": "Demo: Storefront accessibility review"
+        },
+        "url": "#demo-record"
+      },
+      "country": null,
+      "boosted": false,
+      "status": {
+        "status_label": "Submitted"
+      },
+      "auditDetails": {
+        "createdDateTime": {
+          "displayValue": "2026-10-01T12:00:00Z"
+        }
+      },
+      "terms": {
+        "chargeRate": {
+          "displayValue": "$25/hr"
+        },
+        "connectsBid": 13
+      }
+    }
+  ],
+  "emails": [
+    {
+      "subject": "Demo: Your proposal was viewed",
+      "labels": [
+        "UNREAD"
+      ],
+      "display_url": "#demo-record",
+      "email_ts": "2026-10-02T18:00:00Z"
+    },
+    {
+      "subject": "Demo: A client sent you a message",
+      "labels": [
+        "UNREAD"
+      ],
+      "display_url": "#demo-record",
+      "email_ts": "2026-10-02T17:00:00Z"
+    },
+    {
+      "subject": "Demo: Weekly account summary",
+      "labels": [
+        "UNREAD"
+      ],
+      "display_url": "#demo-record",
+      "email_ts": "2026-10-02T16:00:00Z"
+    },
+    {
+      "subject": "Demo: Tips for your next project",
+      "labels": [
+        "CATEGORY_PROMOTIONS"
+      ],
+      "display_url": "#demo-record",
+      "email_ts": "2026-10-02T15:00:00Z"
+    },
+    {
+      "subject": "Demo: Your proposal was viewed again",
+      "labels": [
+        "UNREAD"
+      ],
+      "display_url": "#demo-record",
+      "email_ts": "2026-10-02T14:00:00Z"
+    },
+    {
+      "subject": "Demo: Account update",
+      "labels": [
+        "UNREAD"
+      ],
+      "display_url": "#demo-record",
+      "email_ts": "2026-10-02T13:00:00Z"
+    }
+  ],
+  "connects": {
+    "balance": {
+      "connectsBalance": 84,
+      "connectsBalanceFree": 64,
+      "connectsBalancePaid": 20,
+      "rolloverBalance": 0
+    },
+    "usage_history": {
+      "transactions": [
+        {
+          "amount": {
+            "rawValue": "-8"
+          },
+          "createdDateTime": "2026-10-02T12:00:00Z",
+          "reason": "Demo proposal application",
+          "jobPost": {
+            "jobTitle": "Demo: Shopify catalogue setup"
+          }
+        },
+        {
+          "amount": {
+            "rawValue": "-9"
+          },
+          "createdDateTime": "2026-10-02T12:00:00Z",
+          "reason": "Demo proposal application",
+          "jobPost": {
+            "jobTitle": "Demo: Restaurant website refresh"
+          }
+        },
+        {
+          "amount": {
+            "rawValue": "-10"
+          },
+          "createdDateTime": "2026-10-02T12:00:00Z",
+          "reason": "Demo proposal application",
+          "jobPost": {
+            "jobTitle": "Demo: Product inventory assistant"
+          }
+        },
+        {
+          "amount": {
+            "rawValue": "-11"
+          },
+          "createdDateTime": "2026-10-01T12:00:00Z",
+          "reason": "Demo proposal application",
+          "jobPost": {
+            "jobTitle": "Demo: Landing page design"
+          }
+        },
+        {
+          "amount": {
+            "rawValue": "-12"
+          },
+          "createdDateTime": "2026-10-01T12:00:00Z",
+          "reason": "Demo proposal application",
+          "jobPost": {
+            "jobTitle": "Demo: Customer support workflow"
+          }
+        },
+        {
+          "amount": {
+            "rawValue": "-13"
+          },
+          "createdDateTime": "2026-10-01T12:00:00Z",
+          "reason": "Demo proposal application",
+          "jobPost": {
+            "jobTitle": "Demo: Storefront accessibility review"
+          }
+        }
+      ]
+    }
+  },
+  "dashboard": {
+    "invitations": {
+      "count": 2
+    },
+    "offers": {
+      "count": 1
+    },
+    "messages": {
+      "count": 3,
+      "unread_in_preview": 1
+    },
+    "active_contracts": {
+      "total_count": 2
+    },
+    "matching_jobs": {
+      "jobs": [
+        {
+          "title": "Demo: Shopify catalogue setup",
+          "url": "#demo-record",
+          "budget": "$15–$25/hr",
+          "job_type": "hourly",
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Restaurant website refresh",
+          "url": "#demo-record",
+          "budget": "$250 fixed",
+          "job_type": "fixed",
+          "client": {
+            "country": "Pakistan",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Product inventory assistant",
+          "url": "#demo-record",
+          "budget": "$15–$25/hr",
+          "job_type": "hourly",
+          "client": {
+            "country": "Turkey",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Landing page design",
+          "url": "#demo-record",
+          "budget": "$250 fixed",
+          "job_type": "fixed",
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Customer support workflow",
+          "url": "#demo-record",
+          "budget": "$15–$25/hr",
+          "job_type": "hourly",
+          "client": {
+            "country": "Pakistan",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Storefront accessibility review",
+          "url": "#demo-record",
+          "budget": "$250 fixed",
+          "job_type": "fixed",
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Website content assistant",
+          "url": "#demo-record",
+          "budget": "$15–$25/hr",
+          "job_type": "hourly",
+          "client": {
+            "country": "Pakistan",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        },
+        {
+          "title": "Demo: Email template designer",
+          "url": "#demo-record",
+          "budget": "$250 fixed",
+          "job_type": "fixed",
+          "client": {
+            "country": "Turkey",
+            "verification_status": "VERIFIED"
+          },
+          "proposals_tier": "5 to 10",
+          "published_date": "2026-10-02T12:00:00Z",
+          "skills": [
+            "Web Design",
+            "Shopify",
+            "Customer Experience",
+            "Project Management"
+          ]
+        }
+      ]
+    }
+  }
+}
